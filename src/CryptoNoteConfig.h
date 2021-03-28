@@ -137,6 +137,7 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
 const char* const SEED_NODES[] = {
 	"remote-nbr-001.niobioco.in:8313",
+	"173.249.38.45:8313",
 	"node0001.niobiocash.net:8313",
 	"node0002.niobiocash.net:8313",
 	"node0003.niobiocash.net:8313",
