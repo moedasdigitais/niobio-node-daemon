@@ -136,10 +136,12 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
 const char* const SEED_NODES[] = {
-	"198.245.50.69:8313",
-	"173.249.38.45:8313",
-	"80.241.215.133:8313",
-	"45.55.141.227:8313"
+	"remote-nbr-001.niobioco.in:8313",
+	"node0001.niobiocash.net:8313",
+	"node0002.niobiocash.net:8313",
+	"node0003.niobiocash.net:8313",
+	"node0004.niobiocash.net:8313",
+	"node0005.niobiocash.net:8313"
 };
 
 struct CheckpointData {
