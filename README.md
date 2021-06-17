@@ -1,6 +1,6 @@
 # English
 
-The Niobio Cash is the Brazilian national cryptocurrency, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
+The Niobio Cash Classic is the Brazilian national cryptocurrency, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
 
 ## Binaries
 
@@ -51,7 +51,7 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 # Português
-Niobio cash é uma criptomoeda brasileira, assim como o Bitcoin, mas mais anônima e centrada na privacidade, com resistência maior a análises da blockchain. É o dinheiro eletrônico das pessoas, não está ligado a governos.
+Niobio cash Classic é uma criptomoeda brasileira, assim como o Bitcoin, mas mais anônima e centrada na privacidade, com resistência maior a análises da blockchain. É o dinheiro eletrônico das pessoas, não está ligado a governos.
 
 ## Binários
 
