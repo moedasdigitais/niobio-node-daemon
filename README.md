@@ -18,6 +18,12 @@ You may download them from:
 * http://www.cmake.org/
 * http://www.boost.org/
 * Alternatively, it may be possible to install them using a package manager.
+```
+sudo apt-get update
+sudo apt-get install gcc
+sudo apt-get install cmake
+sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev libbz2-dev libboost-all-dev
+```
 
 To build, go the the project folder - same level of src - and run:
 ```
