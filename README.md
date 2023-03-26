@@ -69,6 +69,12 @@ Você pode baixá-las em:
 * http://www.cmake.org/
 * http://www.boost.org/
 * Como alternativa, pode ser possível instalá-las usando um gerenciador de pacotes.
+```
+sudo apt-get update
+sudo apt-get install gcc
+sudo apt-get install cmake
+sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev libbz2-dev libboost-all-dev
+```
 
 Para compilar, vá a pasta do projeto - mesmo diretório de src - e execute:
 ```
