@@ -4,7 +4,7 @@ The Niobio Cash Classic is the Brazilian national cryptocurrency, just like Bitc
 
 ## Binaries
 
-You can download the binaries for Linux, MacOS, and Windows [HERE](https://github.com/niobio-cash/niobio-node-daemon/releases)
+You can download the binaries for Linux, MacOS, and Windows [HERE](https://github.com/moedasdigitais/niobio-node-daemon/tags)
 
 ## Building Niobio 
 
@@ -61,7 +61,7 @@ Niobio cash Classic é uma criptomoeda brasileira, assim como o Bitcoin, mas mai
 
 ## Binários
 
-Você pode realizar o download dos Binários para Linux, MacOS, e Windows [AQUI](https://github.com/niobio-cash/niobio-node-daemon/releases)
+Você pode realizar o download dos Binários para Linux, MacOS, e Windows [AQUI](https://github.com/moedasdigitais/niobio-node-daemon/tags)
 
 ## Compilando Niobio
 
