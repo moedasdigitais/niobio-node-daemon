@@ -67,7 +67,7 @@ Você pode realizar o download dos Binários para Linux, MacOS, e Windows [AQUI]
 
 ### Em *nix e OSX
 
-Dependências: GCC 4.7.3 ou superior, CMake 2.8.6 ou superior e Boost 1.58.
+Dependências: GCC 4.7.3 ou superior, CMake 2.8.6 ou superior e Boost 1.58 - Ubuntu 16 - Testado.
 
 Você pode baixá-las em:
 
