@@ -10,7 +10,7 @@ You can download the binaries for Linux, MacOS, and Windows [HERE](https://githu
 
 ### On *nix and OSX
 
-Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.58.
+Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.58 - Ubuntu 16 - tested.
 
 You may download them from:
 
